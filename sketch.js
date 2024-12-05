@@ -3,7 +3,7 @@ let maxWalkers;
 let colorPalette = ['green','blue','orange','pink','red']
 function setup() {
   createCanvas(400, 400);
-    background('black');
+    background('red');
   
   maxWalkers = 5
   
